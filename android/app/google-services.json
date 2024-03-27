@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753732636344",
+    "project_id": "doit-d199c",
+    "storage_bucket": "doit-d199c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753732636344:android:2162eea49152d784b2ae4d",
+        "android_client_info": {
+          "package_name": "com.example.doit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYNmqaZSRvTP2yYqEu5aixGXUCIxEh1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753732636344:android:71a758f3968319b5b2ae4d",
+        "android_client_info": {
+          "package_name": "com.sibghat.doit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYNmqaZSRvTP2yYqEu5aixGXUCIxEh1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
